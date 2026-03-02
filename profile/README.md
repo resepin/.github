@@ -1,7 +1,7 @@
 # 🍳 Resep.in Organization
 
 [![Azure](https://img.shields.io/badge/Deploy-Azure_App_Service-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)]()
-[![Laravel](https://img.shields.io/badge/Web-Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/Web-Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)]()
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)]()
 [![YOLOv8](https://img.shields.io/badge/AI-YOLOv8-FF9D00?style=flat-square&logo=ultralytics&logoColor=white)]()
 [![MLOps](https://img.shields.io/badge/MLOps-DVC_%7C_MLflow-4181FF?style=flat-square)]()
